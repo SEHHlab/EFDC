@@ -1,0 +1,8 @@
+C  SHOW.INP - OUTPUT INFO - Version: 10.3
+C  Project: 
+C 
+C   NSTYPE    NSHOWR    ISHOWC    JSHOWC
+C  
+C   ZSSMIN    ZSSMAX   SSALMAX
+         0      1000        50       266        50
+  -500.000  1000.000  1000.000
